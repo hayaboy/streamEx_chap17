@@ -1,0 +1,3 @@
+{"pno":1,"name":"상품1","company":"그린","price":1000}
+{"pno":2,"name":"상품2","company":"그린","price":2000}
+{"pno":3,"name":"상품3","company":"그린","price":3000}
